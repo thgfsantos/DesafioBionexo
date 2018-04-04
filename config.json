@@ -1,0 +1,8 @@
+{
+ "QA": {
+   "user_email": "thiago_santos89@gmail.com",
+   "user_pass": "KqE9BSQdbkj7ap",
+   "base_url": "http://qainterview.qa.cloud.bionexo.com.br",
+   "path_geckodriver": "./resources/geckodriver"
+  }
+}
