@@ -28,13 +28,13 @@ A abordagem usada para realizar os testes desta aplicação foi BDD com selenium
 
 # Pré-Requisitos
 * Ubuntu
-* Firefox 54
-  * geckodriver>=0.19
+* Firefox 54 ou superior
+  * geckodriver>=0.19 ou superior
 * Python 2.7.6
   * pip >= 1.5.4
-  * behave >= 1.2.6
-  * selenium >= 3.11
-  * pyhamcrest >= 1.9.0
+  * behave >= 1.2.6 ou superior
+  * selenium >= 3.10 ou superior
+  * pyhamcrest >= 1.8 ou superior
   * json
 
 
