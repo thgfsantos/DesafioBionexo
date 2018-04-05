@@ -82,7 +82,7 @@ Para execução dos testes é necessário:
 
 # Config.json
 
-* "user_email": "thiago_santos89@gmail.com" -- usera para logar na pagina da bionexo
-* "user_pass": "KqE9BSQdbkj7ap" -- senha para logar na pagina da bionexo
-* "base_url": "http://qainterview.qa.cloud.bionexo.com.br" -- url default da pagina da bionexo
-* "path_geckodriver": "./resources/geckodriver" -- path do geckodriver para os testes executar
+* "user_email" -- usera para logar na pagina da bionexo
+* "user_pass" -- senha para logar na pagina da bionexo
+* "base_url" -- url default da pagina da bionexo
+* "path_geckodriver" -- path do geckodriver para os testes executar
