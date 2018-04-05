@@ -3,16 +3,17 @@
 ## Escreva a respeito da abordagem que você usou para testar essa aplicação;
 A abordagem usada para realizar os testes desta aplicação foi BDD com selenium webdriver com Python: 
 * BDD: 
- * por que com bdd é possível escrever cenários/exemplos baseados nos critérios de aceitação e são possíveis testá-los
- * a escrita dos cenários/exemplos são de fácil compreensão
- * permiti focar no que deve ser desenvolvido ou validado. 
- * tem diversos frameworks para diversas linguagem de programação, para esta aplicação utilizei o framework behave do python. 
+  * por que com bdd é possível escrever cenários/exemplos baseados nos critérios de aceitação e são possíveis testá-los
+  * a escrita dos cenários/exemplos são de fácil compreensão
+  * permiti focar no que deve ser desenvolvido ou validado. 
+  * tem diversos frameworks para diversas linguagem de programação, para esta aplicação utilizei o framework behave do python. 
 
-* Selenium Webdriver: O selenium webdriver permitir realizar as interações do usuário na página web. Utilizando o selenium webdriver permitir utilizar o conceito de pattern page objects, que para esta apliação foi baseado nos menus e sub-menus da mesma.
+* Selenium Webdriver: 
+  * O selenium webdriver permitir realizar as interações do usuário na página web. Utilizando o selenium webdriver permitir utilizar o conceito de pattern page objects, que para esta apliação foi baseado nos menus e sub-menus da mesma.
 
 * Python: 
- * por que é uma linguagem mais fácil de aprender a programar e desenvolver testes automatizado.
- * por que possui suporte a orientação a objeto e possui bastante lib open source e bom suporte pela comunidade python.
+  * por que é uma linguagem mais fácil de aprender a programar e desenvolver testes automatizado.
+  * por que possui suporte a orientação a objeto e possui bastante lib open source e bom suporte pela comunidade python.
 
 ## Use a ferramenta de controle de bugs (embutida na aplicação) para o cadastro dos problemas que você encontrar;
 * Os bugs foram cadastrados manualmente. Fiquei na dúvida se deveriam ser automatizados.
